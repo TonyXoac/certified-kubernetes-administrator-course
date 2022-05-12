@@ -4,7 +4,9 @@ These are notes from the [Certified Kubernetes Administrator Course](https://kod
 
 for certification test 
 
+
 # Sections
+
 
 - [01-Introduction](docs/01-Introduction)
 
